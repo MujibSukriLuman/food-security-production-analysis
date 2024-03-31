@@ -6,6 +6,26 @@ this project aims to determine the progress of policies and strategies implement
 
 *food security is defined when all people, at all times, have pyhsical and economic access to sufficient safe and nutritious food that meets their diartary needs and food preferences for an active and healthy life. there are many dimensions of food security, but in this project just focus on physical availability of food: food availability address the "supply side" of food security and is determined by the level of food production, stock lavels and net trade. [Source from World Bank](https://www.worldbank.org/en/topic/agriculture/brief/food-security-update/what-is-food-security)*
 
-**Business Understanding**
 
+**Business Understanding :**
 the food security for product analysis of the next rice harvest 
+1. understanding of goal project
+   - in this case, maintaining and improving indonesia`s food security for each year(at least 10 years ago)
+2. Indentify problems
+   - Indonesia import rice almost every year, what the factors couse it?
+   - whether the rice harvest is small form the growers?
+   - if yes, what coused it?
+   - shortage of fertilizer
+   - weather
+   - lack of interest in growers
+   - or there are other factors
+
+
+
+
+
+
+
+
+
+
