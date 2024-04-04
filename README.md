@@ -8,19 +8,22 @@ this project aims to determine the progress of policies and strategies implement
 
 
 **Business Understanding :**
+in here, we need domain knowlage to surgery deeper about this term. domain knowlage is like my compass in any domain, whether it’s healthcare, finance, marketing, or any other.
 the food security for product analysis of the next rice harvest 
 1. understanding of goal project
    - in this case, maintaining and improving indonesia`s food security for each year(at least 10 years ago)
-2. Indentify problems
-   - Indonesia import rice almost every year, what the factors couse it?
-   - whether the rice harvest is small form the growers?
-   - if yes, what coused it?
+2. Identify problems
+   - Indonesia import rice almost every year, what the factors couse it ?
+   - whether the rice harvest is small form the growers ?
+   - if yes, what coused it ?
    - shortage of fertilizer
    - weather
-   - lack of interest in growers
-   - or there are other factors
-
-
+   - lack of interest in growers or there are other factors
+3. Determine the success of the harvest
+   - has the country ever not imported? if has, in what year ?
+   - what coused it?
+4. Understand the process involved understanding of workflow to selling
+   from growers-merchants-resellers-market-public
 
 
 
