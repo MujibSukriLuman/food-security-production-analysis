@@ -8,10 +8,10 @@ this project aims to determine the progress of policies and strategies implement
 
 
 **Business Understanding :**
-Ability to make yield prediction before harvest using satellite remote sensing is important in many aspects of agricultural decision-making. Crop yield forecasts a few months before harvest can be of importance for timely initiating food trade secure the national demand and timely organize food transport within countries.*
+*Ability to make yield prediction before harvest using satellite remote sensing is important in many aspects of agricultural decision-making. Crop yield forecasts a few months before harvest can be of importance for timely initiating food trade secure the national demand and timely organize food transport within countries.*
 
-* Crop yield Forecasting enables planners and decision makers to determine how much to import or optionally if there in shortfall case, to export in surplus position. in here, we need domain knowlage to surgery deeper about this term. domain knowlage is like my compass in any domain, whether it’s healthcare, finance, marketing, or any other.
-the food security for product analysis of the next rice harvest. in this case, trying to combine between satellite remote sensing and statistical data from government.
+*Crop yield Forecasting enables planners and decision makers to determine how much to import or optionally if there in shortfall case, to export in surplus position. in here, we need domain knowlage to surgery deeper about this term. domain knowlage is like my compass in any domain, whether it’s healthcare, finance, marketing, or any other.
+the food security for product analysis of the next rice harvest. in this case, trying to combine between satellite remote sensing and statistical data from government.*
   
 1. understanding of goal project
    - in this case, maintaining and improving indonesia`s food security for each year(at least 10 years ago)
@@ -28,7 +28,7 @@ the food security for product analysis of the next rice harvest. in this case, t
 4. Understand the process involved understanding of workflow to selling
    from growers-merchants-resellers-market-public
 
-futhermore, as a data scientist
+futhermore, as a data scientist, requared to know almost all areas of knowlage to suport the perfect project. knowlage about spectral satellite systems in this project for example. the most multi spectral satellite systems measure varies spectral bands within the visible to mid-infra red region of the electro magnitic spectrum. About leaf chlorophyll, helthy plants, normalized difference vegetation index (NDVI).
 
 
 
