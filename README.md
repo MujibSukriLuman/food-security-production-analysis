@@ -8,8 +8,11 @@ this project aims to determine the progress of policies and strategies implement
 
 
 **Business Understanding :**
-in here, we need domain knowlage to surgery deeper about this term. domain knowlage is like my compass in any domain, whether it’s healthcare, finance, marketing, or any other.
-the food security for product analysis of the next rice harvest 
+Ability to make yield prediction before harvest using satellite remote sensing is important in many aspects of agricultural decision-making. Crop yield forecasts a few months before harvest can be of importance for timely initiating food trade secure the national demand and timely organize food transport within countries.*
+
+* Crop yield Forecasting enables planners and decision makers to determine how much to import or optionally if there in shortfall case, to export in surplus position. in here, we need domain knowlage to surgery deeper about this term. domain knowlage is like my compass in any domain, whether it’s healthcare, finance, marketing, or any other.
+the food security for product analysis of the next rice harvest. in this case, trying to combine between satellite remote sensing and statistical data from government.
+  
 1. understanding of goal project
    - in this case, maintaining and improving indonesia`s food security for each year(at least 10 years ago)
 2. Identify problems
@@ -24,6 +27,8 @@ the food security for product analysis of the next rice harvest
    - what coused it?
 4. Understand the process involved understanding of workflow to selling
    from growers-merchants-resellers-market-public
+
+futhermore, as a data scientist
 
 
 
