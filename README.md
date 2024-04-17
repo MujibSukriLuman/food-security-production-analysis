@@ -30,6 +30,7 @@ the food security for product analysis of the next rice harvest. in this case, t
 
 futhermore, as a data scientist, requared to know almost all areas of knowlage to suport the perfect project is main priority. knowlage about spectral satellite systems in this project for example. the most multi spectral satellite systems measure varies spectral bands within the visible to mid-infra red region of the electro magnitic spectrum. About leaf chlorophyll, helthy plants, normalized difference vegetation index (NDVI).
 
+there are some factor of decrease rice production:
 
 
 
